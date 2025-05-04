@@ -1,0 +1,25 @@
+Corners Problem: Heuristic
+C:/Python27/python.exe pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
+
+
+Eating All The Dots
+C:/Python27/python.exe pacman.py -l testSearch -p AStarFoodSearchAgent
+C:/Python27/python.exe pacman.py -l trickySearch -p AStarFoodSearchAgent
+
+Suboptimal Search
+C:/Python27/python.exe pacman.py -l bigSearch -p ClosestDotSearchAgent -z .5 
+
+
+Reflex Agent
+C:/Python27/python.exe pacman.py -p ReflexAgent -l testClassic
+C:/Python27/python.exe pacman.py --frameTime 0 -p ReflexAgent -k 1
+C:/Python27/python.exe pacman.py --frameTime 0 -p ReflexAgent -k 2
+C:/Python27/python.exe autograder.py -q q1
+C:/Python27/python.exe autograder.py -q q1 --no-graphics
+
+
+minimax
+C:/Python27/python.exe autograder.py -q q2
+C:/Python27/python.exe autograder.py -q q2 --no-graphics
+C:/Python27/python.exe pacman.py -p MinimaxAgent -l minimaxClassic -a depth=4
+C:/Python27/python.exe pacman.py -p MinimaxAgent -l trappedClassic -a depth=3
