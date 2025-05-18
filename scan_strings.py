@@ -4,7 +4,6 @@ import subprocess
 import re
 
 def extract_strings(file_path, output_dir="strings_output"):
-    """Extract printable strings from a file using the `strings` command."""
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
@@ -24,12 +23,16 @@ def extract_strings(file_path, output_dir="strings_output"):
         return None
 
 def analyze_strings(strings_file):
-    """Analyze extracted strings for suspicious patterns."""
     suspicious_patterns = {
-        "IP Addresses": r"\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b",
-        "URLs": r"https?://[^\s/$.?#].[^\s]*",
-        "Executable Keywords": r"CreateFile|WriteFile|ShellExecute|regedit\.exe|cmd\.exe",
+        "IP Addresses": r"\b\d{1,3}(?:\.\d{1,3}){3}\b",
+        "URLs": r"https?://[^\s\"\'<>]+",
+        "Executable Keywords": r"CreateFile|WriteFile|ShellExecute|cmd\.exe|powershell|regedit|CreateProcess|VirtualAlloc|GetProcAddress",
         "Hex Encoded": r"\\x[0-9a-fA-F]{2}",
+        "Base64 Strings": r"(?:[A-Za-z0-9+/]{4}){5,}(?:[A-Za-z0-9+/]{2}==|[A-Za-z0-9+/]{3}=)?",
+        "Suspicious File Paths": r"(?:[a-zA-Z]:)?\\(?:Users|Windows|Temp|Program Files)[\\\w\.\-\s]*",
+        "Registry Keys": r"HKEY_[A-Z_]+\\[^\s\"\'<>]+",
+        "Email Addresses": r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b",
+        "Embedded Powershell": r"powershell\s+-[a-zA-Z]+\s+[^\s\"\'<>]+",
     }
 
     with open(strings_file, "r", encoding="utf-8") as f:

